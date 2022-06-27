@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CS360BlazeHaldermanProjectTwo</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="add_item">add_item</string>
+    <string name="remove_item">remove_item</string>
+    <string name="edit_item">edit_item</string>
+    <string name="text_message_permission_title">SMS Permission</string>
+    <string name="text_message_prompt">Allow SMS connection with app?</string>
+    <string name="allow">Allow</string>
+    <string name="deny">deny</string>
+    <string name="later">later</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="EnterPasswordAgain">password again</string>
+    <string name="InventoryAppLogo">InventoryAppLogo</string>
+    <string name="register">register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="register_new_account">Register New Account</string>
+    <string name="passwordReset">Reset</string>
+    <string name="Cancel">Cancel</string>
+    <string name="reset_password_text">Reset Password Request</string>
+    <string name="item_quantity">Item Quantity (ex. 1)</string>
+</resources>
